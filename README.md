@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a student at UHCL.
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate on AWS and GCP
